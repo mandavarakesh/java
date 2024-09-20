@@ -1,6 +1,9 @@
 hia this is gopi
 <h1>hello<h1/>
 
+public String welcome(){
+  //bugg5
+}
 
 public int count(){
 //bugg 10
